@@ -1,6 +1,6 @@
 # digitalocean-vpc-only-droplet
 
-## 1. Update the bash script as described in the previous response and save it, for example, as /opt/update-route.sh. Make sure to make it executable with chmod +x /opt/update-route.sh.
+## 1. Update the bash script and save it, for example, as /opt/update-route.sh. Make sure to make it executable with chmod +x /opt/update-route.sh.
 
 ## 2. Create a systemd service unit file for the script:
 
